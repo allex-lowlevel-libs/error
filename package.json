@@ -1,0 +1,30 @@
+{
+  "name": "allex_errorlowlevellib",
+  "version": "1.0.0",
+  "description": "AllexJS Error - Error with the `code` property",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-lowlevel-libs/error.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "Error",
+    "low",
+    "level",
+    "lib"
+  ],
+  "devDependencies": {
+    "chai": "3.x",
+    "allex_inheritlowlevellib": "1.x"
+  },
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-lowlevel-libs/error/issues"
+  },
+  "homepage": "https://github.com/allex-lowlevel-libs/error#readme"
+}
